@@ -11,7 +11,7 @@
   min-height: 432px;
   height: auto;
   width: 1140px;
-  margin: 457px -108px 60px auto;
+  margin: 456px -108px 60px auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -22,16 +22,16 @@
   width: 996px;
   height: 10px;
   transform-origin: right center 0px;
-  margin: 200px 58px 0 auto;
+  margin: 192px 93px 0 auto;
 }
 
 .u-section-1 .u-text-1 {
   text-transform: uppercase;
-  font-size: 6rem;
+  font-size: 5.625rem;
   font-style: italic;
   font-weight: 700;
-  font-family: "Ballet 16pt";
-  margin: -62px 93px 0 -53px;
+  font-family: "Nothing You Could Do";
+  margin: -54px 93px 0 -53px;
 }
 
 @media (max-width: 1199px) {
@@ -41,6 +41,7 @@
 
   .u-section-1 .u-group-1 {
     width: 940px;
+    min-height: 549px;
     margin-top: 259px;
     margin-right: auto;
     margin-left: 100px;
@@ -49,20 +50,21 @@
 
   .u-section-1 .u-line-1 {
     width: 921px;
-    margin-top: 395px;
-    margin-right: 0;
+    margin-top: 331px;
+    margin-right: auto;
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 5.625rem;
     width: auto;
-    margin: -54px 7px -7px 25px;
+    margin-top: -44px;
+    margin-left: -61px;
+    font-size: 4.5rem;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 {
-    background-position: 89.5% 50%;
+    background-position: 82.27% 50%;
   }
 
   .u-section-1 .u-sheet-1 {
@@ -78,12 +80,15 @@
   .u-section-1 .u-line-1 {
     width: 711px;
     transform-origin: left center 0px;
-    margin-top: 361px;
+    margin-top: 332px;
+    margin-left: -8px;
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 4.25rem;
-    margin: -42px 13px 0;
+    font-size: 3.875rem;
+    margin-top: -39px;
+    margin-right: 26px;
+    margin-left: 0;
   }
 }
 
@@ -100,14 +105,15 @@
 
   .u-section-1 .u-line-1 {
     width: 530px;
-    margin-right: -21px;
+    margin-top: 397px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 3rem;
-    margin-top: -31px;
-    margin-left: 9px;
-    margin-right: 9px;
+    font-size: 2.625rem;
+    margin-top: -28px;
+    margin-right: 22px;
+    margin-left: -4px;
   }
 }
 
@@ -129,14 +135,14 @@
 
   .u-section-1 .u-line-1 {
     width: 374px;
-    margin-top: 289px;
-    margin-right: auto;
-    margin-left: -21px;
+    margin-top: 286px;
+    margin-left: -17px;
+    margin-right: -17px;
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 2.25rem;
-    margin-top: -24px;
+    font-size: 1.875rem;
+    margin-top: -21px;
     margin-right: 0;
     margin-left: -39px;
   }
@@ -183,20 +189,23 @@
   font-style: italic;
   font-size: 4.5rem;
   text-transform: none;
-  font-family: Roboto, sans-serif;
+  font-family: "Nothing You Could Do";
   font-weight: normal;
   margin: 7px -33px 0 20px;
 }
 
 .u-section-2 .u-shape-1 {
   width: 419px;
-  height: 321px;
+  height: 350px;
   margin: 15px auto 0 -25px;
 }
 
 .u-section-2 .u-text-3 {
-  font-size: 0.875rem;
-  margin: -314px 44px 0 97px;
+  font-size: 1rem;
+  font-style: italic;
+  font-family: "Nothing You Could Do";
+  width: 429px;
+  margin: -350px auto 0;
 }
 
 .u-section-2 .u-layout-cell-2 {
@@ -214,15 +223,17 @@
 }
 
 .u-section-2 .u-text-4 {
-  font-size: 0.875rem;
-  margin: -88px 20px 0 101px;
+  font-size: 1rem;
+  font-family: "Nothing You Could Do";
+  font-style: italic;
+  margin: -92px 36px 0 85px;
 }
 
 .u-section-2 .u-image-2 {
   width: 326px;
   height: 326px;
   object-position: 84.55% 50%;
-  margin: 33px 101px 0 auto;
+  margin: 75px 101px 0 auto;
 }
 
 @media (max-width: 1199px) {
@@ -265,7 +276,6 @@
 
   .u-section-2 .u-text-3 {
     margin-right: 100px;
-    margin-left: 41px;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -283,12 +293,15 @@
   }
 
   .u-section-2 .u-text-4 {
-    margin-right: 100px;
-    margin-left: 21px;
+    width: auto;
+    margin-top: -105px;
+    margin-right: 87px;
+    margin-left: 34px;
   }
 
   .u-section-2 .u-image-2 {
     object-position: 83.59% 50%;
+    margin-top: 88px;
   }
 }
 
@@ -339,7 +352,7 @@
 
   .u-section-2 .u-text-3 {
     margin-right: 76px;
-    margin-left: 0;
+    width: 360px;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -357,9 +370,10 @@
   }
 
   .u-section-2 .u-text-4 {
+    font-size: 0.875rem;
     margin-top: -99px;
-    margin-right: 76px;
-    margin-left: 9px;
+    margin-right: 33px;
+    margin-left: 21px;
   }
 
   .u-section-2 .u-image-2 {
@@ -448,6 +462,10 @@
     margin-left: calc(((100% - 1140px) / 2) + 400px);
   }
 
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 512px;
+  }
+
   .u-section-2 .u-container-layout-1 {
     padding-left: 6px;
   }
@@ -469,10 +487,14 @@
 
   .u-section-2 .u-shape-1 {
     width: 340px;
+    height: 375px;
+    margin-right: -6px;
+    margin-left: auto;
   }
 
   .u-section-2 .u-text-3 {
     width: 298px;
+    margin-top: -375px;
     margin-right: 36px;
   }
 
@@ -490,13 +512,13 @@
   }
 
   .u-section-2 .u-text-4 {
-    margin-top: -110px;
-    margin-right: 36px;
-    margin-left: 0;
+    margin-right: 21px;
+    margin-left: 15px;
   }
 
   .u-section-2 .u-image-2 {
     object-position: 83.59% 50%;
+    margin-top: 80px;
     margin-right: 10px;
     margin-left: 5px;
   }
@@ -510,12 +532,12 @@
 
 .u-section-3 .u-group-1 {
   width: 649px;
-  min-height: 199px;
+  min-height: 209px;
   margin: 40px 0 0 auto;
 }
 
 .u-section-3 .u-container-layout-1 {
-  padding-right: 20px;
+  padding-right: 0;
 }
 
 .u-section-3 .u-line-1 {
@@ -527,16 +549,18 @@
 
 .u-section-3 .u-text-1 {
   text-transform: uppercase;
-  font-weight: 700;
   font-size: 2.25rem;
+  font-weight: 700;
+  font-family: "Nothing You Could Do";
   margin: -26px 0 0 462px;
 }
 
 .u-section-3 .u-text-2 {
   font-size: 4.5rem;
-  font-weight: 700;
   text-transform: uppercase;
-  margin: 24px 13px 0 97px;
+  font-weight: 700;
+  font-family: "Nothing You Could Do";
+  margin: 24px 33px 0 97px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
@@ -562,11 +586,13 @@
 .u-section-3 .u-text-3 {
   font-size: 2.25rem;
   font-weight: 700;
+  font-family: "Nothing You Could Do";
   margin: 30px 0 0;
 }
 
 .u-section-3 .u-text-4 {
   font-size: 0.875rem;
+  font-family: "Nothing You Could Do";
   margin: 20px 0 30px;
 }
 
@@ -589,39 +615,43 @@
 .u-section-3 .u-text-5 {
   font-size: 2.25rem;
   font-weight: 700;
+  font-family: "Nothing You Could Do";
   margin: 30px 0 0;
 }
 
 .u-section-3 .u-text-6 {
   font-size: 0.875rem;
+  font-family: "Nothing You Could Do";
   margin: 20px 0 30px;
 }
 
 .u-section-3 .u-layout-cell-3 {
   background-image: none;
-  min-height: 330px;
+  min-height: 369px;
 }
 
 .u-section-3 .u-container-layout-4 {
-  padding-left: 20px;
+  padding-left: 9px;
   padding-right: 20px;
 }
 
 .u-section-3 .u-icon-3 {
   height: 64px;
   width: 64px;
-  margin: 30px auto 0 0;
+  margin: 0 auto 0 11px;
 }
 
 .u-section-3 .u-text-7 {
   font-size: 2.25rem;
   font-weight: 700;
+  font-family: "Nothing You Could Do";
   margin: 30px 0 0;
 }
 
 .u-section-3 .u-text-8 {
   font-size: 0.875rem;
-  margin: 20px 0 30px;
+  font-family: "Nothing You Could Do";
+  margin: 20px 0 0 11px;
 }
 
 .u-section-3 .u-layout-cell-4 {
@@ -642,13 +672,15 @@
 
 .u-section-3 .u-text-9 {
   font-size: 2.25rem;
-  font-weight: 700;
   text-transform: uppercase;
+  font-weight: 700;
+  font-family: "Nothing You Could Do";
   margin: 30px 0 0;
 }
 
 .u-section-3 .u-text-10 {
   font-size: 0.875rem;
+  font-family: "Nothing You Could Do";
   margin: 20px 0 30px;
 }
 
@@ -659,23 +691,18 @@
 
   .u-section-3 .u-group-1 {
     width: 535px;
-    min-height: 209px;
     margin-top: 20px;
-  }
-
-  .u-section-3 .u-container-layout-1 {
-    padding-right: 0;
   }
 
   .u-section-3 .u-line-1 {
     width: 283px;
-    margin-left: 61px;
+    margin-left: 30px;
   }
 
   .u-section-3 .u-text-1 {
     width: auto;
     margin-right: 33px;
-    margin-left: 364px;
+    margin-left: 313px;
   }
 
   .u-section-3 .u-text-2 {
@@ -712,6 +739,10 @@
     position: relative;
   }
 
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 423px;
+  }
+
   .u-section-3 .u-container-layout-3 {
     padding-left: 16px;
     padding-right: 16px;
@@ -721,14 +752,17 @@
     height: 53px;
     width: 53px;
     position: relative;
+    margin-top: 0;
   }
 
   .u-section-3 .u-text-5 {
-    position: relative;
+    width: auto;
+    font-size: 2.0625rem;
   }
 
   .u-section-3 .u-text-6 {
     position: relative;
+    margin-bottom: 0;
   }
 
   .u-section-3 .u-layout-cell-3 {
@@ -737,43 +771,57 @@
 
   .u-section-3 .u-container-layout-4 {
     padding-left: 16px;
-    padding-right: 9px;
+    padding-right: 0;
   }
 
   .u-section-3 .u-icon-3 {
     height: 53px;
     width: 53px;
     position: relative;
-    margin-top: 0;
   }
 
   .u-section-3 .u-text-7 {
     width: auto;
+    margin-top: 33px;
+    margin-left: 9px;
+    font-size: 1.875rem;
   }
 
   .u-section-3 .u-text-8 {
     position: relative;
-    margin-right: 7px;
-    margin-bottom: 0;
+    margin-top: 17px;
+    margin-right: 16px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 423px;
   }
 
   .u-section-3 .u-container-layout-5 {
-    padding-left: 16px;
-    padding-right: 16px;
+    padding: 0 14px 0 12px;
   }
 
   .u-section-3 .u-icon-4 {
     height: 53px;
     width: 53px;
     position: relative;
+    margin-top: 0;
   }
 
   .u-section-3 .u-text-9 {
-    position: relative;
+    font-size: 1.9375rem;
+    width: auto;
+    margin-top: 24px;
+    margin-left: 1px;
+    margin-right: 1px;
   }
 
   .u-section-3 .u-text-10 {
     position: relative;
+    margin-top: 26px;
+    margin-right: 2px;
+    margin-bottom: 0;
   }
 }
 
@@ -786,17 +834,18 @@
   .u-section-3 .u-line-1 {
     width: 189px;
     transform-origin: left center 0px;
-    margin-left: 52px;
+    margin-left: 11px;
   }
 
   .u-section-3 .u-text-1 {
-    margin-right: 26px;
-    margin-left: 241px;
+    margin-right: 21px;
+    margin-left: 204px;
   }
 
   .u-section-3 .u-text-2 {
+    width: auto;
     margin-right: 21px;
-    margin-left: 61px;
+    margin-left: 45px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -813,6 +862,10 @@
     width: 40px;
   }
 
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 330px;
+  }
+
   .u-section-3 .u-container-layout-3 {
     padding-left: 13px;
     padding-right: 13px;
@@ -821,6 +874,10 @@
   .u-section-3 .u-icon-2 {
     height: 40px;
     width: 40px;
+  }
+
+  .u-section-3 .u-text-5 {
+    position: relative;
   }
 
   .u-section-3 .u-layout-cell-3 {
@@ -841,6 +898,10 @@
     position: relative;
   }
 
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 330px;
+  }
+
   .u-section-3 .u-container-layout-5 {
     padding-left: 13px;
     padding-right: 13px;
@@ -849,6 +910,10 @@
   .u-section-3 .u-icon-4 {
     height: 40px;
     width: 40px;
+  }
+
+  .u-section-3 .u-text-9 {
+    position: relative;
   }
 }
 
@@ -859,6 +924,7 @@
 
   .u-section-3 .u-group-1 {
     width: 384px;
+    min-height: 288px;
   }
 
   .u-section-3 .u-line-1 {
@@ -867,13 +933,13 @@
   }
 
   .u-section-3 .u-text-1 {
-    margin-right: 19px;
-    margin-left: 228px;
+    margin-right: 18px;
+    margin-left: 180px;
   }
 
   .u-section-3 .u-text-2 {
     margin-right: 16px;
-    margin-left: 46px;
+    margin-left: 20px;
   }
 
   .u-section-3 .u-layout-wrap-1 {
@@ -903,7 +969,7 @@
 
   .u-section-3 .u-container-layout-4 {
     padding-left: 9px;
-    padding-right: 9px;
+    padding-right: 0;
   }
 
   .u-section-3 .u-icon-3 {
@@ -925,26 +991,25 @@
 @media (max-width: 575px) {
   .u-section-3 .u-group-1 {
     width: 323px;
-  }
-
-  .u-section-3 .u-container-layout-1 {
-    padding-right: 6px;
+    min-height: 289px;
   }
 
   .u-section-3 .u-line-1 {
     width: 170px;
-    margin-left: 0;
+    margin-top: 34px;
+    margin-left: -15px;
   }
 
   .u-section-3 .u-text-1 {
-    width: 150px;
-    margin-right: 6px;
+    font-size: 1.875rem;
+    margin-top: -23px;
+    margin-right: 11px;
     margin-left: 160px;
   }
 
   .u-section-3 .u-text-2 {
-    margin-right: 4px;
-    margin-left: 29px;
+    margin-left: -15px;
+    margin-right: -15px;
   }
 
   .u-section-3 .u-layout-wrap-1 {
@@ -971,6 +1036,10 @@
     width: 32px;
   }
 
+  .u-section-3 .u-text-5 {
+    font-size: 2.25rem;
+  }
+
   .u-section-3 .u-container-layout-4 {
     padding-left: 6px;
     padding-right: 6px;
@@ -979,6 +1048,11 @@
   .u-section-3 .u-icon-3 {
     height: 32px;
     width: 32px;
+  }
+
+  .u-section-3 .u-text-7 {
+    font-size: 2.25rem;
+    margin-left: 0;
   }
 
   .u-section-3 .u-text-8 {
@@ -994,6 +1068,16 @@
     height: 32px;
     width: 32px;
   }
+
+  .u-section-3 .u-text-9 {
+    font-size: 2.25rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-10 {
+    margin-right: 0;
+  }
 }.u-section-4 {
   background-image: url("images/windowtinttemplates.jpg");
   background-position: 50% 50%;
@@ -1005,34 +1089,36 @@
 
 .u-section-4 .u-group-1 {
   width: 709px;
-  min-height: 198px;
+  min-height: 205px;
   height: auto;
   margin: 438px auto 0 0;
 }
 
 .u-section-4 .u-container-layout-1 {
-  padding-left: 20px;
+  padding-left: 0;
 }
 
 .u-section-4 .u-line-1 {
   width: 353px;
   height: 10px;
   transform-origin: right center 0px;
-  margin: 37px 164px 0 auto;
+  margin: 37px 143px 0 auto;
 }
 
 .u-section-4 .u-text-1 {
   text-transform: uppercase;
   font-size: 2.25rem;
   font-weight: 700;
-  margin: -26px 517px 0 0;
+  font-family: "Nothing You Could Do";
+  margin: -26px 496px 0 0;
 }
 
 .u-section-4 .u-text-2 {
   font-size: 4.5rem;
   text-transform: uppercase;
   font-weight: 700;
-  margin: 20px 20px 0 0;
+  font-family: "Nothing You Could Do";
+  margin: 20px -101px 0 20px;
 }
 
 @media (max-width: 1199px) {
@@ -1042,7 +1128,7 @@
 
   .u-section-4 .u-group-1 {
     width: 689px;
-    min-height: 279px;
+    min-height: 284px;
     height: auto;
   }
 
@@ -1062,7 +1148,8 @@
   }
 
   .u-section-4 .u-text-2 {
-    margin-right: 16px;
+    width: auto;
+    margin-right: -152px;
   }
 }
 
@@ -1084,11 +1171,17 @@
   .u-section-4 .u-line-1 {
     width: 480px;
     transform-origin: left center 0px;
-    margin-top: 75px;
-    margin-right: 59px;
+    margin-top: 76px;
+    margin-right: -29px;
+    margin-left: auto;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 451px;
   }
 
   .u-section-4 .u-text-2 {
+    font-size: 3.4375rem;
     margin-right: 13px;
   }
 }
@@ -1099,7 +1192,7 @@
   }
 
   .u-section-4 .u-group-1 {
-    min-height: 159px;
+    min-height: 180px;
     margin-top: 520px;
     margin-bottom: 59px;
     margin-right: initial;
@@ -1114,17 +1207,17 @@
   .u-section-4 .u-line-1 {
     width: 345px;
     margin-top: 14px;
-    margin-right: 3px;
-    margin-left: auto;
+    margin-right: -30px;
   }
 
   .u-section-4 .u-text-1 {
-    margin-right: 357px;
+    margin-right: 307px;
   }
 
   .u-section-4 .u-text-2 {
-    font-size: 3.4375rem;
+    font-size: 2.8125rem;
     margin-right: 9px;
+    margin-left: 0;
   }
 }
 
@@ -1134,7 +1227,7 @@
   }
 
   .u-section-4 .u-group-1 {
-    min-height: 202px;
+    min-height: 228px;
     margin-top: 616px;
     margin-bottom: 60px;
     width: auto;
@@ -1143,24 +1236,24 @@
   }
 
   .u-section-4 .u-container-layout-1 {
-    padding-left: 6px;
+    padding-left: 0;
     padding-bottom: 0;
   }
 
   .u-section-4 .u-line-1 {
     width: 175px;
     margin-top: 60px;
-    margin-right: -28px;
+    margin-right: -40px;
   }
 
   .u-section-4 .u-text-1 {
-    margin-right: 153px;
-    margin-left: 6px;
+    margin-right: 135px;
+    margin-left: -16px;
   }
 
   .u-section-4 .u-text-2 {
     font-size: 2.25rem;
-    width: auto;
+    margin-left: 6px;
     margin-right: 6px;
   }
 }.u-section-5 {
@@ -1190,26 +1283,27 @@
 .u-section-5 .u-line-1 {
   width: 353px;
   height: 10px;
-  margin: 45px auto 0 0;
+  margin: 45px auto 0 -28px;
 }
 
 .u-section-5 .u-text-1 {
   font-size: 2.25rem;
   text-transform: uppercase;
   font-weight: 700;
-  margin: -26px 20px 0 361px;
+  font-family: "Nothing You Could Do";
+  margin: -26px 0 0 334px;
 }
 
 .u-section-5 .u-shape-1 {
   width: 454px;
   height: 313px;
   background-image: none;
-  margin: 4px -67px 0 auto;
+  margin: 4px -67px 0 183px;
 }
 
 .u-section-5 .u-text-2 {
-  font-family: "Ballet 16pt";
-  margin: -296px 0 0 171px;
+  font-family: "Nothing You Could Do";
+  margin: -308px -12px 0 183px;
 }
 
 @media (max-width: 1199px) {
@@ -1228,7 +1322,6 @@
 
   .u-section-5 .u-text-1 {
     width: auto;
-    margin-left: 353px;
   }
 
   .u-section-5 .u-shape-1 {
@@ -1236,7 +1329,10 @@
   }
 
   .u-section-5 .u-text-2 {
-    margin-right: 16px;
+    width: auto;
+    margin-top: -313px;
+    margin-right: 0;
+    margin-left: 199px;
   }
 }
 
@@ -1246,17 +1342,20 @@
   }
 
   .u-section-5 .u-text-1 {
-    margin-right: 29px;
+    margin-left: 325px;
   }
 
   .u-section-5 .u-shape-1 {
+    height: 331px;
     margin-top: 21px;
-    margin-right: -36px;
+    margin-right: -67px;
+    margin-left: auto;
   }
 
   .u-section-5 .u-text-2 {
-    margin-top: -313px;
+    margin-top: -331px;
     margin-right: 29px;
+    margin-left: 183px;
   }
 }
 
@@ -1271,17 +1370,17 @@
   }
 
   .u-section-5 .u-text-1 {
-    margin-right: 0;
-    margin-left: 346px;
+    margin-right: -21px;
   }
 
   .u-section-5 .u-shape-1 {
     margin-right: -27px;
+    margin-left: 168px;
   }
 
   .u-section-5 .u-text-2 {
     margin-right: 10px;
-    margin-left: 141px;
+    margin-left: 168px;
   }
 }
 
@@ -1299,16 +1398,19 @@
   .u-section-5 .u-line-1 {
     transform-origin: left center 0px;
     width: 238px;
+    margin-left: -45px;
   }
 
   .u-section-5 .u-text-1 {
-    margin-left: 146px;
+    margin-right: 0;
+    margin-left: 125px;
   }
 
   .u-section-5 .u-shape-1 {
     width: 428px;
-    margin-right: auto;
-    margin-left: 6px;
+    margin-top: 22px;
+    margin-right: 0;
+    margin-left: auto;
   }
 
   .u-section-5 .u-text-2 {
@@ -1325,7 +1427,7 @@
 
 .u-section-6 .u-group-1 {
   width: 690px;
-  min-height: 192px;
+  min-height: 234px;
   margin: 90px auto 0 0;
 }
 
@@ -1336,20 +1438,22 @@
 .u-section-6 .u-line-1 {
   width: 353px;
   height: 10px;
-  margin: 33px 26px 0 auto;
+  margin: 33px -65px 0 auto;
 }
 
 .u-section-6 .u-text-1 {
-  font-weight: 700;
   text-transform: uppercase;
-  margin: -23px 379px 0 0;
+  font-weight: 700;
+  font-family: "Nothing You Could Do";
+  margin: -23px 284px 0 0;
 }
 
 .u-section-6 .u-text-2 {
-  font-size: 4.5rem;
+  font-size: 3.75rem;
   text-transform: uppercase;
   font-weight: 700;
-  margin: 20px -396px 0 0;
+  font-family: "Nothing You Could Do";
+  margin: 20px -447px 0 0;
 }
 
 .u-section-6 .u-layout-wrap-1 {
@@ -1389,7 +1493,7 @@
 @media (max-width: 1199px) {
   .u-section-6 .u-group-1 {
     width: 569px;
-    min-height: 307px;
+    min-height: 310px;
   }
 
   .u-section-6 .u-container-layout-1 {
@@ -1398,13 +1502,13 @@
 
   .u-section-6 .u-line-1 {
     width: 251px;
-    transform-origin: right center 0;
-    margin-right: 91px;
+    transform-origin: right center 0px;
+    margin-right: -83px;
   }
 
   .u-section-6 .u-text-1 {
     width: auto;
-    margin-right: 357px;
+    margin-right: 168px;
   }
 
   .u-section-6 .u-text-2 {
@@ -1442,15 +1546,16 @@
 
   .u-section-6 .u-line-1 {
     width: 189px;
-    margin-right: 13px;
+    margin-right: -161px;
   }
 
   .u-section-6 .u-text-1 {
-    margin-right: 228px;
+    margin-right: 33px;
   }
 
   .u-section-6 .u-text-2 {
-    margin-right: 13px;
+    width: auto;
+    margin-right: -14px;
   }
 
   .u-section-6 .u-image-3 {
@@ -1474,13 +1579,13 @@
 
   .u-section-6 .u-line-1 {
     width: 236px;
-    transform-origin: right center 0px;
-    margin-right: 86px;
+    margin-top: 51px;
+    margin-right: 44px;
   }
 
   .u-section-6 .u-text-1 {
-    margin-right: 321px;
-    width: 183px;
+    margin-top: -41px;
+    margin-right: 300px;
   }
 
   .u-section-6 .u-text-2 {
@@ -1516,16 +1621,18 @@
   .u-section-6 .u-line-1 {
     width: 154px;
     transform-origin: left center 0px;
-    margin-right: 37px;
+    margin-top: 43px;
+    margin-right: 10px;
   }
 
   .u-section-6 .u-text-1 {
-    margin-right: 136px;
     width: 198px;
+    margin-top: -33px;
+    margin-right: 136px;
   }
 
   .u-section-6 .u-text-2 {
-    font-size: 3.75rem;
+    font-size: 3.4375rem;
     margin-right: 6px;
   }
 
@@ -1587,20 +1694,22 @@
 
 .u-section-8 .u-text-1 {
   text-transform: uppercase;
-  font-weight: 700;
   font-size: 4.5rem;
+  font-weight: 700;
+  font-family: "Nothing You Could Do";
   margin: 20px 20px 0;
 }
 
 .u-section-8 .u-text-2 {
-  font-size: 0.875rem;
+  font-size: 1.125rem;
+  font-family: "Nothing You Could Do";
   margin: 20px 135px 0 20px;
 }
 
 .u-section-8 .u-btn-1 {
   border-style: none;
   font-size: 1.125rem;
-  margin: 72px 104px 0 auto;
+  margin: 50px 104px 0 auto;
   padding: 0;
 }
 
@@ -1621,8 +1730,9 @@
 
 .u-section-8 .u-text-3 {
   text-transform: uppercase;
-  font-weight: 700;
   font-size: 2.25rem;
+  font-weight: 700;
+  font-family: "Nothing You Could Do";
   margin: 20px 0 0;
 }
 
@@ -1665,12 +1775,15 @@
   }
 
   .u-section-8 .u-text-1 {
-    position: relative;
+    font-size: 3.75rem;
+    width: auto;
+    margin-top: 13px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-8 .u-text-2 {
+    margin-top: 27px;
     margin-right: 55px;
     margin-left: 0;
   }
@@ -1709,8 +1822,7 @@
   }
 
   .u-section-8 .u-text-1 {
-    font-size: 3.75rem;
-    width: auto;
+    font-size: 3rem;
     margin-right: 13px;
   }
 
@@ -1768,10 +1880,6 @@
     padding-right: 9px;
   }
 
-  .u-section-8 .u-text-3 {
-    position: relative;
-  }
-
   .u-section-8 .u-btn-2 {
     margin-top: 168px;
     margin-left: auto;
@@ -1789,7 +1897,7 @@
   }
 
   .u-section-8 .u-layout-cell-1 {
-    min-height: 264px;
+    min-height: 332px;
   }
 
   .u-section-8 .u-container-layout-1 {
@@ -1797,9 +1905,8 @@
   }
 
   .u-section-8 .u-text-1 {
-    font-size: 3.4375rem;
+    font-size: 2.625rem;
     margin-right: 0;
-    margin-left: 6px;
   }
 
   .u-section-8 .u-text-2 {
@@ -1807,14 +1914,14 @@
   }
 
   .u-section-8 .u-btn-1 {
-    margin-top: 333px;
+    margin-top: 391px;
     margin-bottom: -287px;
     margin-left: -12px;
   }
 
   .u-section-8 .u-container-layout-2 {
     padding-left: 6px;
-    padding-right: 6px;
+    padding-right: 0;
   }
 
   .u-section-8 .u-text-3 {
